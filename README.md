@@ -23,4 +23,6 @@ Welcome! This is KT, a graduate student in Double E.
 - Matlab  
 - verilog  
 - C
-
+  
+## 💡 Projects
+- [KT Gray Image Compression Encoder]([https://github.com/stars/putoze/lists/ic-contest](https://github.com/KTTU31/NCHU/tree/main/2023_Spring_SOC_Lab/Final%20Project)https://github.com/KTTU31/NCHU/tree/main/2023_Spring_SOC_Lab/Final%20Project)
