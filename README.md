@@ -4,7 +4,7 @@ Welcome! This is KT, a graduate student in Double E.
 
 <p align="center">
 <a href="https://github.com/KTTU31">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=B1AEF7&multiline=true&width=500&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineer+%7C+IC Design" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1AEF7&background=FFFFFF00&center=true&multiline=true&width=600&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+IC+Design" alt="Typing SVG" />  
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1AEF7&background=FFFFFF00&center=true&multiline=true&width=600&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+IC+Design)](https://git.io/typing-svg)
 
