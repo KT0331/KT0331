@@ -21,6 +21,5 @@ Welcome! This is KT, a graduate student in Double E.
 - C
 
   
-## 🔗 Cute Things
-
-<a href=#><img src="https://github.com/KTTU/Interesting-readme-template/blob/main/contributions.svg"></a>
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/unknown/count.svg)
