@@ -15,7 +15,7 @@ Welcome! This is KT, a graduate student in Double E.
 
 <div >  
   
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putoze&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/> 
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTTUˇ&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/> 
 
   
   
