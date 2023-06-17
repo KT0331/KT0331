@@ -20,6 +20,3 @@ Welcome! This is KT, a graduate student in Double E.
 - verilog  
 - C
 
-  
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/KTTU31/count.svg)
