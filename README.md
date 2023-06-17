@@ -2,7 +2,7 @@
 
 Welcome! This is KT, a graduate student in Double E.
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putoze&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KTTU)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kt-tu-99487127b/)  
   
 <!-- GitHub Statistics -->
 
@@ -10,7 +10,7 @@ Welcome! This is KT, a graduate student in Double E.
 
 <div >  
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KTTU31&theme=dracula)  
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putoze&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/> 
 
   
   
