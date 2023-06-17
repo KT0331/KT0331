@@ -10,4 +10,17 @@ Welcome! This is KT, a graduate student in Double E.
 
 <div >  
   
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTTU31&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTTU31&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/>  
+
+  
+  
+## 📚 Langues  
+  
+- Matlab  
+- verilog  
+- C
+
+  
+## 🔗 Cute Things
+
+<a href=#><img src="https://github.com/KTTU/Interesting-readme-template/blob/main/contributions.svg"></a>
