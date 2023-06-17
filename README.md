@@ -15,7 +15,7 @@ Welcome! This is KT, a graduate student in Double E.
 
 <div >  
   
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTTU31&hide_border=true&show_icons=true&layout=compact&langs_count=6&theme=dracula"/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTTU31&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTTU31&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
   
   
 ## 📚 Langues  
