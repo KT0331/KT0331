@@ -2,7 +2,7 @@
 
 Welcome! This is KT, a graduate student in Double E.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1AEF7&background=FFFFFF00&center=true&width=600&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+IC+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1AEF7&background=FFFFFF00&center=true&width=600&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+IC+Design)](https://git.io/KTTU31)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KTTU31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kt-tu-99487127b/)  
   
