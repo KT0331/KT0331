@@ -24,6 +24,6 @@ Welcome! This is K.T., a graduate student in Double E.
 - verilog  
 - C
   
-## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-purple)
+## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-#9370DB)
 - [IC Contest](https://github.com/KTTU31/IC_Contest)
 - [KT Gray Image Compression Encoder](https://github.com/KTTU31/2023_Spring_NCHU_SOC_Lab/tree/main/Final%20Project)
