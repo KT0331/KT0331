@@ -25,4 +25,5 @@ Welcome! This is KT, a graduate student in Double E.
 - C
   
 ## 💡 Projects
+- [IC Contest](https://github.com/KTTU31/IC_Contest)
 - [KT Gray Image Compression Encoder](https://github.com/KTTU31/2023_Spring_NCHU_SOC_Lab/tree/main/Final%20Project)
