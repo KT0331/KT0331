@@ -7,7 +7,7 @@ Welcome! This is K.T., a graduate student in Double E.
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10&color=B1AEF7&background=FFFFFF00&center=true&multiline=true&width=1000&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+Analog+IC+Design+%7C+Digital+IC+Design" alt="Typing SVG" />  
 
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KTTU31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kt-tu-99487127b/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KTTU31)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kuan-ting-tu-4a8b0227b/)  
   
 <!-- GitHub Statistics -->
 
