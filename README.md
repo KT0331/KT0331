@@ -1,6 +1,6 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=putoze)
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=KTTU31)
 
-Welcome! This is KT, a graduate student in Double E.
+Welcome! This is K.T., a graduate student in Double E.
 
 <p align="center">
 <a href="https://github.com/KTTU31">
