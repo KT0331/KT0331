@@ -26,4 +26,4 @@ Welcome! This is K.T., a graduate student in Double E.
   
 ## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-9370DB)
 - [IC Contest](https://github.com/KT0331/IC_Contest)
-- [KT Gray Image Compression Encoder](https://github.com/KT0331/2023_Spring_NCHU_SOC_Lab/tree/main/Final%20Project)
+- [KT Gray Image Compression Encoder](https://github.com/KT0331/NCHU_2023_Spring_SOC_Lab/tree/main/Final%20Project)
