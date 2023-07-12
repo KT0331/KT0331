@@ -1,4 +1,4 @@
-### Hi there 👋  ![](https://komarev.com/ghpvc/?username=KT0331)
+### Hi there 👋 
 
 Welcome! This is K.T., a graduate student in Double E.
 
