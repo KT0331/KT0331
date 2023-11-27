@@ -11,7 +11,6 @@ Welcome! This is K.T., a graduate student in Double E.
   
 <!-- GitHub Statistics -->
 
-![Visitor Count](https://profile-counter.glitch.me/KT0331/count.svg)
 
 ## GitHub Statistics  
 
