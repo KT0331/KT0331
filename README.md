@@ -29,4 +29,4 @@ Welcome! This is K.T., a graduate student in Double E.
 - [IC Contest](https://github.com/KT0331/IC_Contest)
 - [KT Gray Image Compression Architecture](https://github.com/KT0331/NCHU_2023_Spring_SOC_Lab/tree/main/Final%20Project)  
 - [PDF Table Search](https://github.com/KT0331/NTU_2023_Fall_BDS-HW3a/tree/9)
-- [5G MIMO Demodulation: QR Decomposition](https://github.com/KT0331/NTU_2023_Fall_CVSD/blob/main/HW/final/team51_report.pdf)
+- [5G MIMO Demodulation: QR Decomposition](https://github.com/KT0331/NTU_2023_Fall_CVSD/blob/main/HW/Final/team51_report.pdf)
