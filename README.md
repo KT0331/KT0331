@@ -18,7 +18,7 @@ Welcome! This is K.T., a graduate student in Double E.
   
 <img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KT0331&hide_border=true&show_icons=true&langs_count=6&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&theme=dracula"/>
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT0331&theme=dracula) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KT0331&theme=dracula) 
   
 ## 📚 Langues  
   
