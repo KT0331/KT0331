@@ -22,8 +22,9 @@ Welcome! This is K.T., a graduate student in Double E.
   
 ## 📚 Langues  
   
-- Verilog  
+- Verilog
 - MATLAB
+- Python
 - C
   
 ## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-9370DB)
