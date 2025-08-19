@@ -25,7 +25,7 @@ Welcome! This is K.T., a graduate student in Double E.
 - Verilog
 - MATLAB
 - Python
-- C
+<!-- - C -->
   
 ## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-9370DB)
 - [IC Contest](https://github.com/KT0331/IC_Contest)
